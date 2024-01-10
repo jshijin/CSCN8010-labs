@@ -1,2 +1,3 @@
 # CSCN8010-labs
-CSCN8010 practical lab
+Lab work for foundations of AI and Machine Learning
+
